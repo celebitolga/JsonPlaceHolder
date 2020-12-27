@@ -1,0 +1,24 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "Tolga",
+        "imageUrl": "https://occ-0-4451-3467.1.nflxso.net/dnm/api/v6/0RO1pLmU93-gdXvuxd_iYjzPqkc/AAAABZiSyrRci77umHuATdA0OCHdMx0Bb2mWhVc0ihermsQZehGuoO-ugrnHy8u8EoOh5NoAIDZTs4DzBgQKUJ8_GMvr3y4R.png?r=a41"
+      },
+      {
+        "id": 2,
+        "name": "Umut",
+        "imageUrl": "https://occ-0-4451-3467.1.nflxso.net/dnm/api/v6/0RO1pLmU93-gdXvuxd_iYjzPqkc/AAAABeZakDz11ZWzhgfol0EvY3nQQfPNItHRE_Ek8LFdWkZ3fEf_a2By9czWI0zTV-AtR_B66axVhJUOqTD6vMmPlhnFyZaE.png?r=f71"
+      },
+      {
+        "id": 3,
+        "name": "Çağrı",
+        "imageUrl": "https://occ-0-4451-3467.1.nflxso.net/dnm/api/v6/0RO1pLmU93-gdXvuxd_iYjzPqkc/AAAABUoZHhxVh1jb6AvkbjW9ACspekEZtNsC4yUXGaZHNBNneb-089DiClCqnk8za57vlQ9NTyBQJmxMJkmUE29YkcbMA7TI.png?r=a48"
+      },
+      {
+        "id": 4,
+        "name": "Çocuk",
+        "imageUrl": "https://occ-0-4451-3467.1.nflxso.net/dnm/api/v6/0RO1pLmU93-gdXvuxd_iYjzPqkc/AAAABX3qEGE4phOXTMcon3xM9roAvRsmwMDGzdOlbR1BRkqYBClvp0KiUINUb0jOUX_balyvuKutDIx8Y0CnfIiKC3c4U7bZ.png?r=8f0"
+      }
+    ]
+  }
